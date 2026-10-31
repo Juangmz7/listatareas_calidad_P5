@@ -1,10 +1,10 @@
-package com.cmepps.listatareas;
+package com.CMEPPS.listatareas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ListatareasApplicationTests {
+class ListaTareasApplicationTests {
 
 	@Test
 	void contextLoads() {

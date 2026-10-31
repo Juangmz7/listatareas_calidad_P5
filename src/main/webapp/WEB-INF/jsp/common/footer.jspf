@@ -1,0 +1,22 @@
+<%@ page pageEncoding="UTF-8"%>
+<script src="webjars/jquery/1.9.1/jquery.min.js"></script>
+<script src="webjars/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script
+	src="webjars/bootstrap-datepicker/1.0.1/js/bootstrap-datepicker.js"></script>
+<script>
+	$('#targetDate').datepicker({
+		format : 'dd/mm/yyyy'
+	});
+</script>
+
+<footer class="footer">
+	<div class="container">
+		<p>
+			CMEPPS &middot; <a href="https://moodle.uhu.es/">Aula virtual</a>
+		</p>
+	</div>
+</footer>
+
+</body>
+
+</html>
